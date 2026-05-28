@@ -32,16 +32,16 @@ import datetime
 # Estructura del proyecto
 El proyecto debe contener exactamente la siguiente estructura:
 Proyecto_Taller/
-│
+│  
 ├── main.py
 ├── Repuestos.csv
-├── Servicios.txt
-├── Listado_Ordenes.txt
-├── Listado_Ordenes_Cerradas.txt
-│
-├── Base_Usuarios/
-├── Ordenes_Abiertas/
-├── Ordenes_Cerradas/
+├── Servicios.txt    
+├── Listado_Ordenes.txt  
+├── Listado_Ordenes_Cerradas.txt  
+│  
+├── Base_Usuarios/    
+├── Ordenes_Abiertas/  
+├── Ordenes_Cerradas/  
 # Archivos necesarios
 Repuestos.csv
 Archivo encargado de almacenar el inventario de repuestos.
