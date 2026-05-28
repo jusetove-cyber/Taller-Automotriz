@@ -33,9 +33,9 @@ import datetime
 El proyecto debe contener exactamente la siguiente estructura:
 Proyecto_Taller/
 │  
-├── main.py
-├── Repuestos.csv
-├── Servicios.txt    
+├── main.py  
+├── Repuestos.csv  
+├── Servicios.txt      
 ├── Listado_Ordenes.txt  
 ├── Listado_Ordenes_Cerradas.txt  
 │  
